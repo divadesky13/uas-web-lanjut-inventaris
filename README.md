@@ -7,7 +7,7 @@ Aplikasi web manajemen stok inventaris barang yang dibangun menggunakan framewor
 ## 👨‍💻 Identitas Mahasiswa
 * **Nama:** Diva Insyarah Kausar
 * **NIM:** 230170087
-* **Mata Kuliah:** Pemrograman Web Lanjut A8S
+* **Mata Kuliah:** Pemrograman Web Lanjut A8 
 * **Program Studi :** Teknik Informatika
 * **Universitas :** Universitas Malikussaleh
 
