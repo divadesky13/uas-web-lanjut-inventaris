@@ -5,7 +5,7 @@ Aplikasi web manajemen stok inventaris barang yang dibangun menggunakan framewor
 ---
 
 ## 👨‍💻 Identitas Mahasiswa
-* **Nama:** [Diva Insyarah Kausr]
+* **Nama:** Diva Insyarah Kausar
 * **NIM:** 230170087
 * **Mata Kuliah:** Pemrograman Web Lanjut A8S
 * **Program Studi :** Teknik Informatika
@@ -83,14 +83,21 @@ Jika ingin menjalankan proyek ini di komputer lokal:
 
 ## 📸 Dokumentasi Fitur Aplikasi
 
-- **Halaman Login & Register**
-  ![Login](img/login.png)
+* **Halaman Login & Register**
+  
+  ![Halaman Login](img/login%26register/login.png)
+  ![Halaman Register](img/login%26register/register.png)
 
-- **Dashboard Admin & User**
-  ![Dashboard](img/dashboard.png)
+* **Dashboard Admin & Pengaturan Profil**
+  
+  ![Halaman Dashboard](img/dashboard%20admin%26user/dashboard.png)
+  ![Profil Admin](img/dashboard%20admin%26user/profiladmin.png)
+  ![Kelola Daftar User](img/dashboard%20admin%26user/daftaruser.png)
 
-- **CRUD Data Barang (Modal Edit & Hapus)**
-  ![CRUD Barang](img/crud.png)
+* **CRUD Data Barang**
+  
+  ![Halaman Data Barang](img/databarang.png)
 
-- **Hasil Export PDF**
-  ![Export PDF](img/export-pdf.png)
+* **Hasil Export PDF**
+  
+  ![Hasil Export PDF](img/exportpdf.png)
