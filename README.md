@@ -85,14 +85,14 @@ Jika ingin menjalankan proyek ini di komputer lokal:
 
 * **Halaman Login & Register**
   
-  ![Halaman Login](img/login%26register/login.png)
-  ![Halaman Register](img/login%26register/register.png)
+  ![Halaman Login](img/login.png)
+  ![Halaman Register](img/register.png)
 
 * **Dashboard Admin & Pengaturan Profil**
   
-  ![Halaman Dashboard](img/dashboard%20admin%26user/dashboard.png)
-  ![Profil Admin](img/dashboard%20admin%26user/profiladmin.png)
-  ![Kelola Daftar User](img/dashboard%20admin%26user/daftaruser.png)
+  ![Halaman Dashboard](img/dashboard.png)
+  ![Profil Admin](img/profiladmin.png)
+  ![Kelola Daftar User](img/daftaruser.png)
 
 * **CRUD Data Barang**
   
