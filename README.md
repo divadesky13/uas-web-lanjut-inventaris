@@ -94,6 +94,3 @@ Jika ingin menjalankan proyek ini di komputer lokal:
 
 - **Hasil Export PDF**
   ![Export PDF](img/export-pdf.png)
-
-- **Tampilan Responsive Mobile**
-  ![Responsive Mobile](img/mobile.png)
